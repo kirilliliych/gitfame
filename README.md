@@ -56,7 +56,6 @@ Joe Tsai     64    3       2
 Ross Light   2     1       1
 ferhat elmas 1     1       1
 ```
-Human-readable формат. Для паддинга используется пробел.
 
 `csv`:
 ```
